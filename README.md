@@ -62,5 +62,4 @@ We welcome contributions from everyone! To contribute, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-[![GitHub Badge](https://img.shields.io/badge/Completed-Lean-Up-green)](https://github.com/Nkdarmel/lean-UP)
-```
+
