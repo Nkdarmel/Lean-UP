@@ -3,7 +3,7 @@
 
 Open-source desktop app for turning tree chlorophyll into images and videos into clean, analysis-ready datasets using computer learning.
 
-[![GitHub Badge](https://img.shields.io/badge/Completed-Lean-Up-green)](https://github.com/Nkdarmel/lean-Up)
+[![GitHub Badge](https://img.shields.io/badge/Lean-Up-green)](https://github.com/Nkdarmel/lean-Up)
 
 ## Features
 - **Chlorophyll Extraction**: Convert images and videos of tree leaves into chlorophyll content data.
